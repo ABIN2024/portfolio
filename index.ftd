@@ -29,7 +29,7 @@ header-item2-link: /PORTFOLIO/about
 header-item3-link: /PORTFOLIO/blogs
 header-item4-link: /PORTFOLIO/contact me
 cta-item2: Resume
-cta-item2-link: /YOUR_REPOSITORY_NAME/resume
+cta-item2-link: /PORTFOLIO/resume
 
 ;; ----------------------------------------------------------------
 ;; ***** PORTFOLIO Header ends *****
@@ -168,7 +168,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: ABIN GEORGE,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
